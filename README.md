@@ -1,7 +1,7 @@
 ### Hi Iam Nikhil 👋
-Currently Pursuing Full Stack WebDevelopment Course at Masai School, I like to work in a team and i belive my self as a good Team player.
+Enthusiastic full-stack developer with a zest for new coding languages and solving complex problems. A team player with an eye for detail and a passion for development. Looking forward to an opportunity to work as a Full-Stack Developer with an exciting organization.
 
-- 🌱 I’m currently learning :-React
+- 🌱 I’m currently learning :-MERN stack and Data Structures Algorithms
 
 - 📫 How to reach me:- ncnmain@gmail.com
 
